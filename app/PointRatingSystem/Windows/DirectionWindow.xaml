@@ -1,0 +1,12 @@
+﻿<Window x:Class="PointRatingSystem.Windows.DirectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное окно"
+        Height="450"
+        MinHeight="450"
+        Width="800"
+        MinWidth="800">
+    <Grid>
+        
+    </Grid>
+</Window>
